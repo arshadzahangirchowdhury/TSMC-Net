@@ -10,7 +10,7 @@ THz Spectra of Mixtures Classification Network in 220-330 GHz (7.33-11 1/cm) fre
 
 
 <p align="center">
-  <img width="750" src="imgs/VOC_Net Flowchart.JPG">
+  <img width="750" src="imgs/TSMC-Net Flowchart.png">
 </p>
 
 A deep learning/machine learning tool for classifying rotational/THz spectra of mixtures.
