@@ -4,7 +4,7 @@
 ![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 # TSMC-Net
-THz Spectra of Mixtures Classification Network in 220-330 GHz (7.33-11 1/cm) frequency range. The code and data for the network are stored here.
+THz Spectra of Mixtures Classification Network (TSMC-Net) in 220-330 GHz (7.33-11 1/cm) frequency range. The code and data for the network are stored here.
 
 
 
@@ -15,9 +15,19 @@ THz Spectra of Mixtures Classification Network in 220-330 GHz (7.33-11 1/cm) fre
 
 A deep learning/machine learning tool for classifying rotational/THz spectra of mixtures.
 
-## Funding
+# Funding
 
 This work was supported by the National Science Foundation under Grant CBET-1851291.
+
+# Developer
+
+M Arshad Zahangir Chowdhury
+
+# Data and Supervision
+
+Timothy E. Rice
+Matthew A. Oehlschlaeger
+
 # License
 
 MIT License.
