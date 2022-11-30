@@ -1,4 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
+
+
+"""
+Author: M Arshad Zahangir Chowdhury
+Email: arshad.zahangir.bd[at]gmail[dot]com
+Definitions of functions to add and process noisy spectra.
+"""
 
 import matplotlib as mpl
 import matplotlib.pyplot as plt

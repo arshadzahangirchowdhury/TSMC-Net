@@ -6,7 +6,7 @@
 """
 Author: M Arshad Zahangir Chowdhury
 Email: arshad.zahangir.bd[at]gmail[dot]com
-Definitions of various models tested for voc-net.
+Definitions of various models tested for tsmc-net.
 """
 
 

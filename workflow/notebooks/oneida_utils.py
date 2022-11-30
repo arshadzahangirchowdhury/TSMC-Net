@@ -6,7 +6,7 @@
 """
 Author: M Arshad Zahangir Chowdhury
 Email: arshad.zahangir.bd[at]gmail[dot]com
-Definitions of various functions for plotting results for voc-net.
+Definitions of various functions for plotting results for tsmc-net.
 """
 
 import sys

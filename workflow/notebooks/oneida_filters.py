@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+Author: M Arshad Zahangir Chowdhury
+Email: arshad.zahangir.bd[at]gmail[dot]com
+Some Filters for processing data.
+"""
+
 
 import numpy as np
 import matplotlib.pyplot as plt

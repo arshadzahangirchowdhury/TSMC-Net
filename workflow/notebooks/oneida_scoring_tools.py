@@ -6,7 +6,7 @@
 """
 Author: M Arshad Zahangir Chowdhury
 Email: arshad.zahangir.bd[at]gmail[dot]com
-Definitions of various functions for scoring and evaluating the models.
+Definitions of various functions for scoring and evaluating the models. (obsolete)
 """
 
 import sys
